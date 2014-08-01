@@ -11,17 +11,17 @@ The CAIB (Computing Applied to Biomedical Information) Group was created in 2011
 
 These are the main research topics:
 
-*Biomedical Informatics
-*Ontologies and Databases
-*Medical Imaging
-*Bioinformatics
-*Data Integration
+* Biomedical Informatics
+* Ontologies and Databases
+* Medical Imaging
+* Bioinformatics
+* Data Integration
 
 ##About CAIB Image Processing Library
 
 This library contains many funtions for:
-*Mathematical Morphology
-*Image Color Analysis
-*Histogram Analysis
-*Segmentation Evaluation
+* Mathematical Morphology
+* Image Color Analysis
+* Histogram Analysis
+* Segmentation Evaluation
 
