@@ -1,4 +1,4 @@
-CAIB's image processing library
+CAIB's Image Processing Library
 ====
 
 
