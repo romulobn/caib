@@ -1,7 +1,7 @@
-caib
+CAIB's image processing library
 ====
 
-CAIB's image processing library
+
 
 ##Welcome
 
